@@ -1,0 +1,129 @@
+body{
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 16 px;
+    line-height: 1.6 ;
+    color:#333;
+}
+.intro{
+    background: url("../images/intro.jpeg") ;
+    width: 20%;
+    height: 20vh;
+}
+
+
+.about_item{
+    display: flex;
+    justify-content:space-between ;
+    margin-left: 15%;
+}
+.velik{
+    display: block;
+    text-align: center;
+}
+.velik1{
+    display: block;
+    text-align: center;
+
+}
+.velik2{
+    display: block;
+    text-align: center;
+
+}
+.about_item2{
+    display: flex;
+    justify-content:space-between ;
+    margin-left: 7%;
+}
+.velik3{
+    display: block;
+    text-align: center;
+
+}
+.velik4{
+    display: block;
+    text-align: center;
+
+}
+.velik5{
+    display: block;
+    text-align: center;
+
+}
+.about_item3{
+    display: flex;
+    justify-content:space-between ;
+    
+}
+.velik6{
+    display: block;
+    text-align: center;
+
+}
+.velik7{
+    display: block;
+    text-align: center;
+
+}
+.velik8{
+    display: block;
+    text-align: center;
+
+}
+.about_item4{
+    display: flex;
+    justify-content:space-between ;
+}
+.velik9{
+    display: block;
+    text-align: center;
+
+}.velik10{
+    display: block;
+    text-align: center;
+
+}.velik11{
+    display: block;
+    text-align: center;
+
+}
+.footer_block{
+    width: 30%;
+
+    text-align: center;
+}
+.footer_title{
+  margin-bottom: 10px;
+
+  font-size: 15px;
+  font-weight: 700;
+  color: white;
+  text-transform: uppercase;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+}
+.social_item{
+    display: flex;
+    width: 10px;
+    height: 10px;
+
+}
+.footer_title{
+  margin-bottom: 10px;
+
+  font-size: 15px;
+  font-weight: 700;
+  color: white;
+  text-transform: uppercase;
+}
+
+.footer_text{
+  font-size: 14px;
+  line-height: 1.5;
+  font-style: normal;
+
+}

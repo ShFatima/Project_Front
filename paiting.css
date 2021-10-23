@@ -1,0 +1,13 @@
+body{
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 16 px;
+    line-height: 1.6 ;
+    color:#333;
+}
+.intro{
+    background: url("../images/intro.jpeg") ;
+    width: 20%;
+    height: 20vh;
+}
